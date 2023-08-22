@@ -1,5 +1,7 @@
 # Linux内核
-![linux内核示意图](\picture/linux结构.png)
+<div>
+  <img src="https://github.com/Mango001228/WorkNotes/blob/Main-Learning/markdown_Picture/linux%E7%BB%93%E6%9E%84.png" width="700"/>
+</div>
 
 1. 最内层是硬件，最外层是用户常用的应用，比如firefox游览器、evolution查看游览器；
 2. **硬件**是物质基础，而**应用**提供服务，这两者之间还需要经过一番周折
