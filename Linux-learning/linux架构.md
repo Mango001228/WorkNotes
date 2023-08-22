@@ -1,4 +1,4 @@
-## Linux内核
+# Linux内核
 ![linux内核示意图](\picture/linux结构.png)
 
 1. 最内层是硬件，最外层是用户常用的应用，比如firefox游览器、evolution查看游览器；
